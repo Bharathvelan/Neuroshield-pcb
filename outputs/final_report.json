@@ -1,0 +1,36 @@
+{
+  "initial_pcb": {
+    "trace_width_mm": 0.2,
+    "trace_length_mm": 85.0,
+    "ground_distance_mm": 1.4,
+    "stitching_vias": 1.0,
+    "decap_distance_mm": 11.0,
+    "frequency_mhz": 500.0
+  },
+  "optimized_pcb": {
+    "trace_width_mm": 0.2,
+    "trace_length_mm": 85.0,
+    "ground_distance_mm": 1.4,
+    "stitching_vias": 1.0,
+    "decap_distance_mm": 11.0,
+    "frequency_mhz": 500.0
+  },
+  "initial_emi": 24.000598907470703,
+  "optimized_emi": 24.000598907470703,
+  "improvement_db": 0.0,
+  "passes_cispr32": true,
+  "top_causes": [
+    {
+      "parameter": "stitching_vias",
+      "score": 0.9
+    },
+    {
+      "parameter": "trace_width_mm",
+      "score": 0.9
+    },
+    {
+      "parameter": "trace_length_mm",
+      "score": 0.85
+    }
+  ]
+}

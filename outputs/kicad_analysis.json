@@ -1,0 +1,71 @@
+{
+  "board_summary": {
+    "total_traces": 5,
+    "max_emi": 37.84,
+    "min_emi": 34.11,
+    "avg_emi": 35.73,
+    "high_risk": 0,
+    "medium_risk": 5,
+    "low_risk": 0,
+    "passing_traces": 5,
+    "failing_traces": 0,
+    "board_status": "PASS"
+  },
+  "trace_results": [
+    {
+      "trace_id": 1,
+      "net_name": "CLK",
+      "layer": "F.Cu",
+      "width_mm": 0.5,
+      "length_mm": 50.0,
+      "emi_dbm": 34.11,
+      "risk": "MEDIUM",
+      "color": "YELLOW",
+      "status": "PASS"
+    },
+    {
+      "trace_id": 2,
+      "net_name": "CLK",
+      "layer": "F.Cu",
+      "width_mm": 0.5,
+      "length_mm": 50.0,
+      "emi_dbm": 34.17,
+      "risk": "MEDIUM",
+      "color": "YELLOW",
+      "status": "PASS"
+    },
+    {
+      "trace_id": 3,
+      "net_name": "DATA",
+      "layer": "F.Cu",
+      "width_mm": 0.25,
+      "length_mm": 80.0,
+      "emi_dbm": 35.74,
+      "risk": "MEDIUM",
+      "color": "YELLOW",
+      "status": "PASS"
+    },
+    {
+      "trace_id": 4,
+      "net_name": "VCC",
+      "layer": "F.Cu",
+      "width_mm": 1.0,
+      "length_mm": 100.0,
+      "emi_dbm": 36.77,
+      "risk": "MEDIUM",
+      "color": "YELLOW",
+      "status": "PASS"
+    },
+    {
+      "trace_id": 5,
+      "net_name": "GND",
+      "layer": "B.Cu",
+      "width_mm": 1.5,
+      "length_mm": 120.0,
+      "emi_dbm": 37.84,
+      "risk": "MEDIUM",
+      "color": "YELLOW",
+      "status": "PASS"
+    }
+  ]
+}

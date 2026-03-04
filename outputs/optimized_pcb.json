@@ -1,0 +1,14 @@
+{
+  "initial_emi": 63.52130889892578,
+  "optimized_emi": 58.05691909790039,
+  "improvement_db": 5.464389801025391,
+  "passes": false,
+  "optimized_pcb": {
+    "trace_width_mm": 2.0,
+    "trace_length_mm": 5.0,
+    "ground_distance_mm": 0.1,
+    "stitching_vias": 10.0,
+    "decap_distance_mm": 0.5,
+    "frequency_mhz": 960.0
+  }
+}

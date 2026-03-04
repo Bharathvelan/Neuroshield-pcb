@@ -1,0 +1,117 @@
+{
+  "total_generated": 1000,
+  "total_passing": 978,
+  "pass_rate": 0.978,
+  "top_designs": [
+    {
+      "trace_width_mm": 1.0860486030578613,
+      "trace_length_mm": 50.437618255615234,
+      "ground_distance_mm": 1.0061304569244385,
+      "stitching_vias": 5.0,
+      "decap_distance_mm": 8.136756896972656,
+      "frequency_mhz": 483.58184814453125,
+      "emi_dbm": 33.1,
+      "margin": 6.9,
+      "passes": true
+    },
+    {
+      "trace_width_mm": 1.0495113134384155,
+      "trace_length_mm": 47.22422790527344,
+      "ground_distance_mm": 1.0067180395126343,
+      "stitching_vias": 5.0,
+      "decap_distance_mm": 8.13485050201416,
+      "frequency_mhz": 491.9377136230469,
+      "emi_dbm": 33.41,
+      "margin": 6.59,
+      "passes": true
+    },
+    {
+      "trace_width_mm": 1.0442873239517212,
+      "trace_length_mm": 51.39339828491211,
+      "ground_distance_mm": 0.937214195728302,
+      "stitching_vias": 5.0,
+      "decap_distance_mm": 7.921228408813477,
+      "frequency_mhz": 488.4615478515625,
+      "emi_dbm": 33.44,
+      "margin": 6.56,
+      "passes": true
+    },
+    {
+      "trace_width_mm": 1.044650673866272,
+      "trace_length_mm": 52.42024612426758,
+      "ground_distance_mm": 1.0106366872787476,
+      "stitching_vias": 5.0,
+      "decap_distance_mm": 8.045330047607422,
+      "frequency_mhz": 488.4718322753906,
+      "emi_dbm": 33.5,
+      "margin": 6.5,
+      "passes": true
+    },
+    {
+      "trace_width_mm": 1.0468597412109375,
+      "trace_length_mm": 49.573814392089844,
+      "ground_distance_mm": 0.9867016077041626,
+      "stitching_vias": 5.0,
+      "decap_distance_mm": 8.03512954711914,
+      "frequency_mhz": 491.3804626464844,
+      "emi_dbm": 33.51,
+      "margin": 6.49,
+      "passes": true
+    },
+    {
+      "trace_width_mm": 1.058638095855713,
+      "trace_length_mm": 50.49139404296875,
+      "ground_distance_mm": 1.0216318368911743,
+      "stitching_vias": 5.0,
+      "decap_distance_mm": 8.155763626098633,
+      "frequency_mhz": 491.03033447265625,
+      "emi_dbm": 33.54,
+      "margin": 6.46,
+      "passes": true
+    },
+    {
+      "trace_width_mm": 1.0734690427780151,
+      "trace_length_mm": 51.642311096191406,
+      "ground_distance_mm": 1.0155049562454224,
+      "stitching_vias": 5.0,
+      "decap_distance_mm": 8.102872848510742,
+      "frequency_mhz": 491.1722106933594,
+      "emi_dbm": 33.61,
+      "margin": 6.39,
+      "passes": true
+    },
+    {
+      "trace_width_mm": 1.0501619577407837,
+      "trace_length_mm": 51.53434371948242,
+      "ground_distance_mm": 0.9819895625114441,
+      "stitching_vias": 5.0,
+      "decap_distance_mm": 7.795711040496826,
+      "frequency_mhz": 491.4823913574219,
+      "emi_dbm": 33.62,
+      "margin": 6.38,
+      "passes": true
+    },
+    {
+      "trace_width_mm": 1.03987455368042,
+      "trace_length_mm": 51.8488883972168,
+      "ground_distance_mm": 0.9492617845535278,
+      "stitching_vias": 5.0,
+      "decap_distance_mm": 7.861121654510498,
+      "frequency_mhz": 492.1103820800781,
+      "emi_dbm": 33.68,
+      "margin": 6.32,
+      "passes": true
+    },
+    {
+      "trace_width_mm": 1.0653047561645508,
+      "trace_length_mm": 50.90764236450195,
+      "ground_distance_mm": 1.0259374380111694,
+      "stitching_vias": 5.0,
+      "decap_distance_mm": 8.260133743286133,
+      "frequency_mhz": 493.77081298828125,
+      "emi_dbm": 33.73,
+      "margin": 6.27,
+      "passes": true
+    }
+  ]
+}

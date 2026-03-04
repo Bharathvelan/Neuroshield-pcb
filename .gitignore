@@ -9,7 +9,4 @@ dist/
 build/
 .DS_Store
 Thumbs.db
-outputs/*.pth
-outputs/*.png
-outputs/*.json
 data/uploaded_board.kicad_pcb

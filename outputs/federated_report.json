@@ -1,0 +1,31 @@
+{
+  "privacy_summary": {
+    "data_shared": "NEVER",
+    "weights_shared": "YES (anonymized)",
+    "board_designs": "PRIVATE",
+    "emi_values": "PRIVATE",
+    "model_weights": "SHARED"
+  },
+  "clients": {
+    "Company_A": {
+      "samples": 200,
+      "data_shared": false,
+      "weights_shared": true
+    },
+    "Company_B": {
+      "samples": 200,
+      "data_shared": false,
+      "weights_shared": true
+    },
+    "Company_C": {
+      "samples": 200,
+      "data_shared": false,
+      "weights_shared": true
+    }
+  },
+  "global_model": {
+    "rounds": 10,
+    "final_mae": 1.1470284572127902,
+    "improvement": 0.4868968699343701
+  }
+}

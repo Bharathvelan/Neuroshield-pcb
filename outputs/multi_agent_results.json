@@ -1,0 +1,32 @@
+{
+  "initial_emi": 36.4419059753418,
+  "optimized_emi": 36.36597442626953,
+  "improvement_db": 0.07593154907226562,
+  "passes_cispr32": true,
+  "optimized_pcb": {
+    "trace_width_mm": 0.2,
+    "trace_length_mm": 90.0,
+    "ground_distance_mm": 1.3,
+    "stitching_vias": 3.0,
+    "decap_distance_mm": 12.0,
+    "frequency_mhz": 500.0
+  },
+  "agent_report": {
+    "PDN Specialist": {
+      "wins": 1,
+      "contribution": "25.0%"
+    },
+    "SI Specialist": {
+      "wins": 1,
+      "contribution": "25.0%"
+    },
+    "Return Path": {
+      "wins": 1,
+      "contribution": "25.0%"
+    },
+    "Decoupling": {
+      "wins": 1,
+      "contribution": "25.0%"
+    }
+  }
+}
